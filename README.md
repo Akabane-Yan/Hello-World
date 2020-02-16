@@ -1,2 +1,5 @@
 # Hello-World
-A short description、
+
+Hi Humans!
+
+Akabane here, I like ghs.
